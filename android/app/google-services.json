@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203033572012",
+    "project_id": "race-track-66247",
+    "storage_bucket": "race-track-66247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203033572012:android:ed0011ea66bda429d7a509",
+        "android_client_info": {
+          "package_name": "com.example.loginrace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNL8iSXXb5gPBum4ZPufR6bqdS6ZaZfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
